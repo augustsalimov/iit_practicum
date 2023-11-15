@@ -17,3 +17,9 @@ const arrayOfNums = (first, last) => {
 }
 
 console.log(arrayOfNums(40, 70))
+
+// Output: [
+//   46, 47, 48, 49, 55, 56,
+//   57, 58, 59, 64, 65, 66,
+//   67, 68, 69
+// ]
